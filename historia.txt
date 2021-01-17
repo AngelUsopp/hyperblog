@@ -10,11 +10,9 @@ Master 2
 
 Experimento 1
 
-<<<<<<< HEAD
 Texto.
-=======
+
 Experimento 2
->>>>>>> 67af938 (Exp 2)
 
 Otro texto porque sí, vamos.
 change
