@@ -11,7 +11,8 @@ Created out of necessity, it is used to build 95.2% (1.52 billion) of websites t
 So, without further ado, let's take a look at what JavaScript is,  how and why it was created, and what's next for the language.
 
 **Creado por angelNewgate**
->Texto de relleno
+>Texto de relleno.
+
 >Disponible solo para cracks.
 
 > - **What Is JavaScript?**
