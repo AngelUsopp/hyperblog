@@ -2,7 +2,7 @@
 Un blog para comenzar a aprender Git &amp; Github
 >Esto es un texto para rellenar y que parezca más interesante el blog, pero como no tengo nada más que describir, escribiré la historia de JavaScript a continuación:
 
- **The History of JavaScript**
+ **The History of JavaScript:**
  
 JavaScript is everywhere, and for the seventh year in a row, it has been ranked the most commonly used programming language, with 67.8% of developers employing it in 2019. Its ascent to the world’s most popular programming language is synonymous with the rise of the internet itself.
 
