@@ -11,6 +11,7 @@ Created out of necessity, it is used to build 95.2% (1.52 billion) of websites t
 So, without further ado, let's take a look at what JavaScript is,  how and why it was created, and what's next for the language.
 
 **Creado por angelNewgate**
+> Texto de relleno
 
 > - **What Is JavaScript?**
 JavaScript is a scripting language that is one of the three core languages used to develop websites. Whereas HTML and CSS give a website structure and style, JavaScript lets you add functionality and behaviors to your website, allowing your website’s visitors to interact with content in many imaginative ways.
