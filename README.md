@@ -12,6 +12,7 @@ So, without further ado, let's take a look at what JavaScript is,  how and why i
 
 **Creado por angelNewgate**
 > Texto de relleno
+>Disponible solo para cracks.
 
 > - **What Is JavaScript?**
 JavaScript is a scripting language that is one of the three core languages used to develop websites. Whereas HTML and CSS give a website structure and style, JavaScript lets you add functionality and behaviors to your website, allowing your website’s visitors to interact with content in many imaginative ways.
